@@ -1,5 +1,8 @@
 ---
 title: Documentation Home
+aliases: [
+    /documentation/
+]
 ---
 
 Welcome to Storehouse!  We build an ecosystem designed around the best open
