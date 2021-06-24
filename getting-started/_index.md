@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+docsOpen: true
 ---
 
 Thanks for your interest in Storehouse!  We build an open-source ecosystem of

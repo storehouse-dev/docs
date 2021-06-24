@@ -1,5 +1,6 @@
 ---
 title: Ecosystem Overview
+docsOpen: true
 ---
 
 Storehouse is a system of interconnected systems that work together to create a

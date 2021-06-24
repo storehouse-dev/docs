@@ -3,6 +3,7 @@ title: Documentation Home
 aliases: [
     /documentation/
 ]
+docsOpen: true
 ---
 
 Welcome to Storehouse!  We build an ecosystem designed around the best open
