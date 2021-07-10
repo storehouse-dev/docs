@@ -1,0 +1,3 @@
+[submodule "themes/storehouse"]
+	path = themes/storehouse
+	url = https://git.gatewayks.net/storehouse/hugo-theme.git
